@@ -22,7 +22,7 @@ nvim --version
 
 ```bash
 cd ~
-git clone https://github.com/KarthikCU1054/neovim-java-config
+git clone https://github.com/KarthikCU1054/neovim-java-config.git ~/.config/nvim
 cd ~/.config/nvim
 ```
 
